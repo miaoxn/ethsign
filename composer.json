@@ -1,5 +1,5 @@
 {
-    "name": "huigan/ethsign",
+    "name": "miaoxn/ethsign",
     "description": "ethsign",
     "type": "library",
     "authors": [
@@ -17,7 +17,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "huigan\\": "src"
+            "miaoxn\\": "src"
         }
     }
 }
